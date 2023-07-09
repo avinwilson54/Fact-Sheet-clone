@@ -12,7 +12,8 @@ body {
   font-family: 'Bentham', serif;
 }
 
-p {
+p,
+ul {
   font-size: 20px;
   font-weight: 400;
   line-height: 170%;
